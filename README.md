@@ -71,8 +71,8 @@ bias edge
 
 ## PROGRAM:
 ```
-NAME : Kadin Samson L
-REG NO : 212221230044
+NAME : mohamed aseem p
+REG NO : 212221230063
 ```
 ```python
 import numpy as np
